@@ -12824,36 +12824,36 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
   production: false,
   // API Base URL
-  apiBaseUrl: 'http://localhost:8080/',
+  apiBaseUrl: 'https://vps-4395548-x.dattaweb.com/api/',
   // RUTA SECCION
-  seccionUrl: 'http://localhost:8080/seccion/',
+  seccionUrl: 'https://vps-4395548-x.dattaweb.com/api/seccion/',
   // RUTA CATEGORIA
-  categoriaUrl: 'http://localhost:8080/categoria/',
+  categoriaUrl: 'https://vps-4395548-x.dattaweb.com/api/categoria/',
   // RUTA SUBCATEGORIA
-  subcategoriaUrl: 'http://localhost:8080/subcategoria/',
+  subcategoriaUrl: 'https://vps-4395548-x.dattaweb.com/api/subcategoria/',
   // RUTA PRODUCTO
-  productoURL: 'http://localhost:8080/producto/',
+  productoURL: 'https://vps-4395548-x.dattaweb.com/api/producto/',
   // RUTA AUTENTICACIÓN
-  authURL: 'http://localhost:8080/auth/',
-  restablecerContraseña: 'http://localhost:8080/auth/request-reset-password/',
+  authURL: 'https://vps-4395548-x.dattaweb.com/api/auth/',
+  restablecerContraseña: 'https://vps-4395548-x.dattaweb.com/api/auth/request-reset-password/',
   // RUTA USUARIO
-  usuarioURL: 'http://localhost:8080/usuario/',
+  usuarioURL: 'https://vps-4395548-x.dattaweb.com/api/usuario/',
   // RUTA IMAGEN USUARIO
-  usuarioIMG_URL: 'http://localhost:8080/uploads/usuarios/',
+  usuarioIMG_URL: 'https://vps-4395548-x.dattaweb.com/api/uploads/usuarios/',
   // RUTA ROLES
-  rol_URL: 'http://localhost:8080/rol/',
+  rol_URL: 'https://vps-4395548-x.dattaweb.com/api/rol/',
   // RUTA CUPON
-  cupon_URL: 'http://localhost:8080/cupon/',
+  cupon_URL: 'https://vps-4395548-x.dattaweb.com/api/cupon/',
   // RUTA TIPO DE DESCUENTO
-  tipo_descuento_URL: 'http://localhost:8080/tipo-descuento/',
+  tipo_descuento_URL: 'https://vps-4395548-x.dattaweb.com/api/tipo-descuento/',
   // RUTA PEDIDOS
-  pedido_URL: 'http://localhost:8080/pedido/',
+  pedido_URL: 'https://vps-4395548-x.dattaweb.com/api/pedido/',
   // RUTA DETALLEPEDIDOS
-  detalle_pedido_URL: 'http://localhost:8080/detalle-pedido/',
+  detalle_pedido_URL: 'https://vps-4395548-x.dattaweb.com/api/detalle-pedido/',
   // RUTA PAGOS REALIZADOS
-  pagos_URL: 'http://localhost:8080/pagos/',
+  pagos_URL: 'https://vps-4395548-x.dattaweb.com/api/pagos/',
   // RUTA SEGUIMIENTO PEDIDO
-  seguimientoPedido_URL: 'http://localhost:8080/seguimiento-pedido/'
+  seguimientoPedido_URL: 'https://vps-4395548-x.dattaweb.com/api/seguimiento-pedido/'
 };
 /*
  * For easier debugging in development mode, you can import the following file
