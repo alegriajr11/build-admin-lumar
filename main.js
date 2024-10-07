@@ -13025,36 +13025,36 @@ __webpack_require__.r(__webpack_exports__);
 const environment = {
   production: false,
   // API Base URL
-  apiBaseUrl: 'https://vps-4395548-x.dattaweb.com/api/',
+  apiBaseUrl: 'https://artesaniaslumar.com/api/',
   // RUTA SECCION
-  seccionUrl: 'https://vps-4395548-x.dattaweb.com/api/seccion/',
+  seccionUrl: 'https://artesaniaslumar.com/api/seccion/',
   // RUTA CATEGORIA
-  categoriaUrl: 'https://vps-4395548-x.dattaweb.com/api/categoria/',
+  categoriaUrl: 'https://artesaniaslumar.com/api/categoria/',
   // RUTA SUBCATEGORIA
-  subcategoriaUrl: 'https://vps-4395548-x.dattaweb.com/api/subcategoria/',
+  subcategoriaUrl: 'https://artesaniaslumar.com/api/subcategoria/',
   // RUTA PRODUCTO
-  productoURL: 'https://vps-4395548-x.dattaweb.com/api/producto/',
+  productoURL: 'https://artesaniaslumar.com/api/producto/',
   // RUTA AUTENTICACIÓN
-  authURL: 'https://vps-4395548-x.dattaweb.com/api/auth/',
-  restablecerContraseña: 'https://vps-4395548-x.dattaweb.com/api/auth/request-reset-password/',
+  authURL: 'https://artesaniaslumar.com/api/auth/',
+  restablecerContraseña: 'https://artesaniaslumar.com/api/auth/request-reset-password/',
   // RUTA USUARIO
-  usuarioURL: 'https://vps-4395548-x.dattaweb.com/api/usuario/',
+  usuarioURL: 'https://artesaniaslumar.com/api/usuario/',
   // RUTA IMAGEN USUARIO
-  usuarioIMG_URL: 'https://vps-4395548-x.dattaweb.com/api/uploads/usuarios/',
+  usuarioIMG_URL: 'https://artesaniaslumar.com/api/uploads/usuarios/',
   // RUTA ROLES
-  rol_URL: 'https://vps-4395548-x.dattaweb.com/api/rol/',
+  rol_URL: 'https://artesaniaslumar.com/api/rol/',
   // RUTA CUPON
-  cupon_URL: 'https://vps-4395548-x.dattaweb.com/api/cupon/',
+  cupon_URL: 'https://artesaniaslumar.com/api/cupon/',
   // RUTA TIPO DE DESCUENTO
-  tipo_descuento_URL: 'https://vps-4395548-x.dattaweb.com/api/tipo-descuento/',
+  tipo_descuento_URL: 'https://artesaniaslumar.com/api/tipo-descuento/',
   // RUTA PEDIDOS
-  pedido_URL: 'https://vps-4395548-x.dattaweb.com/api/pedido/',
+  pedido_URL: 'https://artesaniaslumar.com/api/pedido/',
   // RUTA DETALLEPEDIDOS
-  detalle_pedido_URL: 'https://vps-4395548-x.dattaweb.com/api/detalle-pedido/',
+  detalle_pedido_URL: 'https://artesaniaslumar.com/api/detalle-pedido/',
   // RUTA PAGOS REALIZADOS
-  pagos_URL: 'https://vps-4395548-x.dattaweb.com/api/pagos/',
+  pagos_URL: 'https://artesaniaslumar.com/api/pagos/',
   // RUTA SEGUIMIENTO PEDIDO
-  seguimientoPedido_URL: 'https://vps-4395548-x.dattaweb.com/api/seguimiento-pedido/'
+  seguimientoPedido_URL: 'https://artesaniaslumar.com/api/seguimiento-pedido/'
 };
 /*
  * For easier debugging in development mode, you can import the following file
